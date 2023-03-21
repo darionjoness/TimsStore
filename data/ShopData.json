@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "title": "Men's Slim Gray T-Shirt",
+        "price": 40,
+        "description": "This gray t-shirt is a comfortable and versatile piece that belongs in everyone's wardrobe. Made from soft cotton fabric, it features a classic crew neckline and short sleeves, making it perfect for everyday wear. The neutral gray color can easily be paired with any outfit, making it a staple piece for any style.",
+        "category": "mensclothing",
+        "image": "https://img.freepik.com/free-photo/fashionable-young-bearded-man-oversized-grey-t-shirt-jeans-poses-indoors-against-blank-wall_273609-17015.jpg?w=1800&t=st=1678316105~exp=1678316705~hmac=80f3b7a6631fc5235b7ee5646b34e42aea08a272fab5e6d49d4945376cd44051",
+        "rating": {"rate": 3.9, "count": 120}
+    },
+    {
+        "id": 2,
+        "title": "Men's Button Up White Shirt",
+        "price": 80,
+        "description": "This white button-up shirt is a timeless and sophisticated addition to any wardrobe. Made from high-quality cotton fabric, it features a pointed collar, long sleeves with buttoned cuffs, and a front button placket. The crisp and clean look of the white shirt makes it perfect for both formal and casual occasions.",
+        "category": "mensclothing",
+        "image": "https://img.freepik.com/free-photo/portrait-handsome-smiling-hipster-businessman-model-wearing-casual-summer-white-shirt_158538-1010.jpg?w=1800&t=st=1678316429~exp=1678317029~hmac=6e808bfe32a38a89158c826d16086308bc73a7248c16b60d9320195f210bc362",
+        "rating": {"rate": 4.1, "count": 259}
+    },
+    {
+        "id": 3,
+        "title": "Men's Plain Black T-Shirt",
+        "price": 100,
+        "description": "This plain black t-shirt is a versatile wardrobe staple that can be dressed up or down depending on the occasion. Made from soft and breathable cotton fabric, it features a classic crew neckline, short sleeves, and a relaxed fit that allows for easy movement and comfort. The sleek and simple design makes it a timeless piece that can be paired with jeans, shorts, or skirts for a variety of looks.",
+        "category": "mensclothing",
+        "image": "https://images.unsplash.com/photo-1571455786673-9d9d6c194f90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "rating": {"rate": 5, "count": 997}
+    },
+    {
+        "id": 4,
+        "title": "Women's White Christmas Sweater",
+        "price": 200,
+        "description": "This women's Christmas sweater is the perfect festive addition to your wardrobe. Made from cozy and soft knit fabric, it features a classic crew neckline, long sleeves, and a playful Christmas-themed design. The white base color allows the colorful and cheerful design to stand out, making it perfect for spreading holiday cheer.",
+        "category": "womensclothing",
+        "image": "https://img.freepik.com/free-photo/pretty-young-woman-outdoor_624325-1291.jpg?w=1800&t=st=1678316832~exp=1678317432~hmac=07d236aa3e7e2a4aa465852872dae5467f9422b41ceda2f8d222cb8b9f05707d",
+        "rating": {"rate": 4.8, "count": 413}
+    },
+    {
+        "id": 5,
+        "title": "Women's Striped Blue and White Button Up Shirt",
+        "price": 65,
+        "description": "This women's striped blue and white button-up shirt is a chic and stylish choice for any occasion. Made from soft and breathable cotton fabric, it features a classic pointed collar, long sleeves with buttoned cuffs, and a front button placket. The blue and white stripes create a timeless and flattering look that can be dressed up or down.",
+        "category": "womensclothing",
+        "image": "https://img.freepik.com/free-photo/attractive-pleasant-young-dark-haired-female-standing-dressed-jeans-striped-shirt-charming-nice-positive-girl-isolated_295783-1892.jpg?w=2000&t=st=1678317067~exp=1678317667~hmac=f293a1ed28c2d3046d69a72a2adde32904c773cb4094e3241c95d39b02ce0525",
+        "rating": {"rate": 3.7, "count": 212}
+    },
+    {
+        "id": 6,
+        "title": "Women's White T-shirt",
+        "price": 35,
+        "description": "Stay cool and comfortable in this classic white t-shirt designed for women. Made with soft and breathable cotton fabric, this tee features a relaxed fit and a crew neckline for easy everyday wear. Perfect for pairing with your favorite jeans or shorts for a casual, effortless look.",
+        "category": "womensclothing",
+        "image": "https://img.freepik.com/free-photo/redhead-woman-listening-music-headphones-smiling_176420-8042.jpg?w=1800&t=st=1678385170~exp=1678385770~hmac=9b8915cf3a1cbfa3eac16bcfd26f8b8b32f2cdd10db0eea6daa1480fb6bffa17",
+        "rating": {"rate": 4.8, "count": 138}
+    },
+    {
+        "id": 7,
+        "title": "Ripped Light Blue Jeans",
+        "price": 275,
+        "description": "These rip light blue jeans are the perfect addition to any casual outfit. Made from high-quality denim fabric, they feature a trendy distressed look with ripped details on the knees and thighs. The slim fit design offers a flattering silhouette, while the classic five-pocket styling adds a touch of timeless appeal. Dress them up with a blouse or keep it casual with a t-shirt for a versatile look.",
+        "category": "mensclothing",
+        "image": "https://images.unsplash.com/photo-1547597466-50406ff4f363?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "rating": {"rate": 2.9, "count": 37}
+    },
+    {
+        "id": 8,
+        "title": "Goofy Gray Jeans",
+        "price": 400,
+        "description": "These grey jeans are a wardrobe essential for any fashion-savvy individual. Made from premium quality denim fabric, they feature a versatile neutral tone that can be dressed up or down. The slim fit design offers a flattering silhouette, while the classic five-pocket styling adds a touch of timeless appeal. Perfect for any occasion, these jeans are sure to become a go-to favorite.",
+        "category": "mensclothing",
+        "image": "https://images.unsplash.com/photo-1490427712608-588e68359dbd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "rating": {"rate": 4.3, "count": 293}
+    },
+    {
+        "id": 9,
+        "title": "Womens Black and White Joggers",
+        "price": 110,
+        "description": "These women's black and white joggers are the perfect combination of comfort and style. Made from soft and breathable fabric, they feature a chic black and white color block design that adds a touch of modern flair. The elastic waistband and ankle cuffs provide a comfortable fit, while the tapered leg silhouette creates a flattering look. Perfect for lounging at home or running errands in style.",
+        "category": "womensclothing",
+        "image": "https://images.unsplash.com/photo-1649864728256-e1ce28877154?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80",
+        "rating": {"rate": 3.7, "count": 576}
+    },
+    {
+        "id": 10,
+        "title": "Womens Short Black Jean Shorts",
+        "price": 75,
+        "description": "Get ready for warmer weather with these chic black jean shorts for women. Made with stretchy and comfortable denim fabric, these shorts feature a flattering high-rise waist and a trendy frayed hem. Perfect for pairing with a crop top or blouse for a stylish and effortless summer look.",
+        "category": "womensclothing",
+        "image": "https://img.freepik.com/free-photo/close-up-picture-body-attractive-girl-standing-park-she-holds-her-hand-hip_197531-1209.jpg?w=2000&t=st=1678386077~exp=1678386677~hmac=d837165df74caba4c8ffc2c25851282f9aac5d4b5af824662f68b68df43c1b77",
+        "rating": {"rate": 3.7, "count": 576}
+    },
+    {
+        "id": 11,
+        "title": "Womens Blue Jean Shorts",
+        "price": 55,
+        "description": "Add a touch of classic style to your summer wardrobe with these timeless blue jean shorts for women. Made with high-quality denim fabric, these shorts feature a flattering mid-rise waist and a versatile straight-leg cut. Perfect for pairing with a t-shirt or tank top for a casual and effortless look.",
+        "category": "womensclothing",
+        "image": "https://img.freepik.com/free-photo/woman-blue-denim-shorts-with-hand-tucked-pocket-rear-view_53876-102124.jpg?w=1800&t=st=1678386243~exp=1678386843~hmac=ce625db6e2afed97e0801a143da7353fbd1903a95d6ecea299901d91152e8c6a",
+        "rating": {"rate": 4.2, "count": 142}
+    },
+    {
+        "id": 12,
+        "title": "Big Hole Blue Jeans",
+        "price": 99,
+        "description": "These blue jeans with big holes are the ultimate statement piece for any fashion-forward individual. Made from high-quality denim fabric, they feature large distressed details and rips throughout, offering a bold and edgy look. The relaxed fit design offers a comfortable yet stylish silhouette, perfect for pairing with a variety of tops and accessories for a unique and daring outfit.",
+        "category": "mensclothing",
+        "image": "https://images.unsplash.com/photo-1596574197254-1d6710b7063a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2531&q=80",
+        "rating": {"rate": 2.2, "count": 87}
+    },
+    {
+        "id": 13,
+        "title": "Mens Brown Dress Shoes",
+        "price": 300,
+        "description": "Step up your formal attire with these sophisticated brown dress shoes for men. Made with premium leather, these shoes feature a classic lace-up design and a sleek almond-shaped toe. Perfect for any dressy occasion, these shoes add a touch of elegance and refinement to your outfit.",
+        "category": "mensclothing",
+        "image": "https://img.freepik.com/free-photo/brown-shoe-isolated-white-background-studio_268835-1353.jpg?w=1800&t=st=1678386788~exp=1678387388~hmac=50c5267d2b6aa61198cb3826c847a3d36d306791b2f01a728c4df25368005d88",
+        "rating": {"rate": 3.3, "count": 337}
+    },
+    {
+        "id": 14,
+        "title": "Mens Black Leather Dress Shoes",
+        "price": 485,
+        "description": "Make a stylish statement with these sleek black leather dress shoes for men. Made with high-quality leather, these shoes feature a classic lace-up design and a comfortable cushioned insole. Perfect for any formal event or business meeting, these shoes add a touch of sophistication to any outfit.",
+        "category": "mensclothing",
+        "image": "https://img.freepik.com/free-photo/black-leather-shoes_1203-8181.jpg?w=1800&t=st=1678386973~exp=1678387573~hmac=f0e46aaa7fd80680bc22d69740cc1ec9921ac0c8be10466e3a87571c295c6066",
+        "rating": {"rate": 4.2, "count": 737}
+    },
+    {
+        "id": 15,
+        "title": "Mens Brown Work Boots",
+        "price": 150,
+        "description": "Tackle any job with these rugged and durable brown work boots for men. Made with high-quality leather and a slip-resistant rubber sole, these boots offer both comfort and safety on the job. Perfect for construction sites or other demanding work environments, these boots are a reliable choice for any hard-working man.",
+        "category": "mensclothing",
+        "image": "https://img.freepik.com/free-photo/pair-old-yellow-working-boots-nostalgic_1205-1715.jpg?w=1800&t=st=1678387144~exp=1678387744~hmac=c1106dd5d8ed230476212350f92a54e9e5256ebea1d80f8694df0f37fa161b91",
+        "rating": {"rate": 5, "count": 1074}
+    },
+    {
+        "id": 16,
+        "title": "Womens Pink Suede High Heels",
+        "price": 330,
+        "description": "Elevate your look with these stunning pink suede high heels for women. Made with soft and luxurious suede material, these shoes feature a stylish pointed toe and a comfortable stiletto heel. Perfect for any special occasion, these heels add a pop of color and glamour to any outfit.",
+        "category": "womensclothing",
+        "image": "https://img.freepik.com/free-photo/high-heel-shoes_1203-8675.jpg?w=1800&t=st=1678387270~exp=1678387870~hmac=f32f11e1c05af4ee5073b587a6b7b96b7d7ce0043e7bce37c22a80bdbcd3cefa",
+        "rating": {"rate": 4.5, "count": 27}
+    },
+    {
+        "id": 17,
+        "title": "Womens White Sparkling High Heels",
+        "price": 670,
+        "description": "Step out in style with these dazzling sparkling high heels for women. Made with shimmering glitter material, these shoes feature a flattering pointed toe and a comfortable stiletto heel. Perfect for adding some glamour to any formal event, these heels are sure to make a statement wherever you go.",
+        "category": "womensclothing",
+        "image": "https://img.freepik.com/free-photo/bridal-shoes-blue-background_1220-1774.jpg?w=1800&t=st=1678387665~exp=1678388265~hmac=d1886575e25c646443833257c7b48c86c9cdf3a2289aa44a6c7a713ff81a37cd",
+        "rating": {"rate": 3, "count": 77}
+    },
+    {
+        "id": 18,
+        "title": "Womens Beige High Heels",
+        "price": 400,
+        "description": "Add a touch of sophistication to your wardrobe with these chic beige high heels for women. Made with high-quality leather material, these shoes feature a stylish pointed toe and a comfortable stiletto heel. Perfect for any dressy occasion, these heels pair beautifully with any outfit.",
+        "category": "womensclothing",
+        "image": "https://img.freepik.com/free-photo/women-rsquo-s-white-high-heel-shoes-fashion_53876-106045.jpg?w=1800&t=st=1678387886~exp=1678388486~hmac=d70dff4ff200d1cb6f31bc4be1be2ed8423abf4be24b70935e4524b59abde1b9",
+        "rating": {"rate": 4.7, "count": 399}
+    },
+    {
+        "id": 19,
+        "title": "Diamond Circle Pendant",
+        "price": 1270,
+        "description": "Elevate your jewelry collection with this stunning diamond circle pendant. Made with high-quality materials, this pendant features a sparkling diamond in a classic circular design. Perfect for adding a touch of elegance and sophistication to any outfit, this pendant is a timeless and versatile piece.",
+        "category": "jewelry",
+        "image": "https://img.freepik.com/free-photo/closeup-shot-female-wearing-beautiful-silver-necklace-with-pendant_181624-15490.jpg?w=1800&t=st=1678388084~exp=1678388684~hmac=c6e49cff373a379997de33f6d59c356a3909fdc930765913f351adec7f25e552",
+        "rating": {"rate": 3.9, "count": 221}
+    },
+    {
+        "id": 20,
+        "title": "Gold Double Stars Pendant",
+        "price": 600,
+        "description": "Make a celestial statement with this gorgeous double star gold pendant. Made with high-quality materials, this pendant features a stunning double star design in shining gold. Perfect for adding a touch of whimsy and elegance to any outfit, this pendant is a versatile and eye-catching piece.",
+        "category": "jewelry",
+        "image": "https://img.freepik.com/free-photo/reflection-background-gold-pendant-precious-glass_1400-34.jpg?w=2000&t=st=1678388250~exp=1678388850~hmac=44fabfaaf16e28366e9ad1f20b012f1e339f1ef095c07574b13d4909516bde4b",
+        "rating": {"rate": 3.4, "count": 453}
+    },
+    {
+        "id": 21,
+        "title": "Gold Small Ring",
+        "price": 300,
+        "description": "Elevate your everyday style with this dainty and charming small gold ring. Made with high-quality materials, this ring features a classic and versatile design that pairs well with any outfit. Perfect for adding a touch of elegance and refinement to your look, this ring is a timeless and versatile piece.",
+        "category": "jewelry",
+        "image": "https://img.freepik.com/free-photo/metal-precious-bracelet-chain-luxury-bright_1400-31.jpg?w=2000&t=st=1678388398~exp=1678388998~hmac=09621280beba6ab84c97283d5cf1ad740d4180403ca2bb46b7fc0d53a8ce8573",
+        "rating": {"rate": 2.5, "count": 132}
+    },
+    {
+        "id": 22,
+        "title": "Silver and Gold Watch",
+        "price": 1500,
+        "description": "Stay on time and on-trend with this stylish silver and gold watch. Made with high-quality materials, this watch features a sleek and modern design with a silver and gold color scheme. Perfect for adding a touch of sophistication and style to any outfit, this watch is a versatile and functional accessory.",
+        "category": "jewelry",
+        "image": "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?w=1380&t=st=1678388533~exp=1678389133~hmac=1d0c2611a79b7211437825a948a32be1f9f1299bda7c18117b8ebe1da6fc106d",
+        "rating": {"rate": 3.2, "count": 199}
+    },
+    {
+        "id": 23,
+        "title": "Black and Diamond Ring",
+        "price": 2250,
+        "description": "Make a bold statement with this stunning black and diamond ring. Made with high-quality materials, this ring features a unique design with black stones and sparkling diamonds. Perfect for adding a touch of edginess and glamour to any outfit, this ring is a versatile and eye-catching piece.",
+        "category": "jewelry",
+        "image": "https://img.freepik.com/free-photo/background-engagement-elegant-gift-love-accessory_1400-27.jpg?w=2000&t=st=1678388371~exp=1678388971~hmac=ceadb2f4090e0de63720bde15e0e13b616c779b6ea0b61509d4bb8f1cd6bd02b",
+        "rating": {"rate": 2.8, "count": 269}
+    },
+    {
+        "id": 24,
+        "title": "Brown Leather Wallet",
+        "price": 200,
+        "description": "Elevate your everyday style with this classic brown leather wallet. Made with high-quality materials, this wallet features a sleek and minimalist design with plenty of storage for your cards and cash. Perfect for adding a touch of sophistication and functionality to your everyday look, this wallet is a timeless and practical accessory.",
+        "category": "accessories",
+        "image": "https://img.freepik.com/free-photo/fashion-portrait-young-businessman-handsome-model-man-dressed-elegant-brown-suit-with-accessories_158538-11193.jpg?w=1800&t=st=1678389110~exp=1678389710~hmac=f43c0de2ef8ee64c9c301a52bb5dfc65a87f52be7efa25ec09ec1976fa0fb027",
+        "rating": {"rate": 4, "count": 133}
+    },
+    {
+        "id": 25,
+        "title": "Dark Brown Leather Wallet",
+        "price": 185,
+        "description": "Upgrade your everyday carry with this handsome dark brown leather wallet. Made with high-quality materials, this wallet features a stylish and classic design with ample space for your cards and cash. Perfect for adding a touch of refinement and functionality to your daily routine, this wallet is a must-have accessory.",
+        "category": "accessories",
+        "image": "https://img.freepik.com/free-photo/businessman-saving-money_1150-5976.jpg?w=1800&t=st=1678389267~exp=1678389867~hmac=d75a460e5b2c83f49e3c98a3b0bfe8712deddefd1ea551b1d9335b5248b0e2f1",
+        "rating": {"rate": 4.2, "count": 212}
+    },
+    {
+        "id": 26,
+        "title": "Pink Leather Purse",
+        "price": 460,
+        "description": "Add a pop of color to your outfit with this stunning pink leather purse. Made with high-quality materials, this purse features a stylish and functional design with plenty of space for your essentials. Perfect for adding a touch of vibrancy and style to your look, this purse is a must-have accessory.",
+        "category": "accessories",
+        "image": "https://img.freepik.com/free-photo/beautiful-elegance-luxury-fashion-pink-women-handbag_1203-7653.jpg?w=1800&t=st=1678389358~exp=1678389958~hmac=ce9a80a8a6449fd68be7289b10c3eac671811785fd7e187728ef745cadf40b34",
+        "rating": {"rate": 4.9, "count": 260}
+    },
+    {
+        "id": 27,
+        "title": "Small Black Purse",
+        "price": 580,
+        "description": "Elevate your everyday style with this sleek black leather purse. Made with high-quality materials, this purse features a stylish and functional design with plenty of space for your essentials. Perfect for adding a touch of sophistication and versatility to your look, this purse is a timeless and practical accessory.",
+        "category": "accessories",
+        "image": "https://img.freepik.com/free-photo/close-up-accessories-details-stylish-woman-walking-city-warm-fur-coat-holding-black-leather-bag-winter-season_285396-4722.jpg?w=1800&t=st=1678389526~exp=1678390126~hmac=8f22eaee9c6037713eab4d4e7c150a98f1cbc1d020658cacb140b7c438c4b278",
+        "rating": {"rate": 4.1, "count": 394}
+    },
+    {
+        "id": 28,
+        "title": "Small Red Purse",
+        "price": 1120,
+        "description": "Elevate your everyday style with this sleek black leather Make a statement with this bold and playful small red purse. Made with high-quality materials, this purse features a stylish and compact design with just enough space for your essentials. Perfect for adding a pop of color and personality to your outfit, this purse is a fun and functional accessory.",
+        "category": "accessories",
+        "image": "https://img.freepik.com/free-photo/beautiful-shot-white-purse-wearing-by-lady-dark-coat-road_181624-25375.jpg?w=1800&t=st=1678389665~exp=1678390265~hmac=02cbb730410cfb6c0314073f0afdff8fd5f258c05ad886cd02bf910e1df2b0d6",
+        "rating": {"rate": 5, "count": 12}
+    },
+    {
+        "id": 29,
+        "title": "Citrus Orange Face Care Package",
+        "price": 60,
+        "description": "Pamper your skin with the refreshing and rejuvenating citrus orange face care package. This package includes high-quality skincare products infused with the invigorating scent of citrus orange to cleanse, nourish, and hydrate your skin. Perfect for achieving a healthy and glowing complexion, this package is a luxurious and revitalizing treat for your skin.",
+        "category": "beauty",
+        "image": "https://img.freepik.com/free-photo/spa-arrangement-with-cremes_23-2148549082.jpg?w=2000&t=st=1678389874~exp=1678390474~hmac=2a732e1e62242e8f8f780d8627ea2d7c034a6a74811c3538d1fccbe933a3f979",
+        "rating": {"rate": 3.2, "count": 48}
+    },
+    {
+        "id": 30,
+        "title": "Lemon Face Care Package",
+        "price": 60,
+        "description": "Transform your skincare routine with the zesty and revitalizing lemon face care package. This package includes high-quality skincare products infused with the fresh and invigorating scent of lemon to cleanse, exfoliate, and moisturize your skin. Perfect for achieving a brighter and more radiant complexion, this package is a luxurious and refreshing treat for your skin.",
+        "category": "beauty",
+        "image": "https://img.freepik.com/free-photo/plastic-containers-yellow-background_23-2148549136.jpg?w=1800&t=st=1678390009~exp=1678390609~hmac=56de2d150efb372591e7c5bb7be6e1712f215a3c5d7e7c098599ab6564f9b588",
+        "rating": {"rate": 3.7, "count": 108}
+    },
+    {
+        "id": 31,
+        "title": "Pink Hair Car Package",
+        "price": 40,
+        "description": "Treat your hair to the luxurious and nourishing pink hair care package. This package includes high-quality hair care products infused with nourishing ingredients to hydrate, repair, and strengthen your hair. Perfect for achieving healthy, shiny, and vibrant hair, this package is a must-have for your hair care routine.",
+        "category": "beauty",
+        "image": "https://img.freepik.com/free-photo/still-life-cosmetic-products_23-2149163116.jpg?w=1800&t=st=1678390109~exp=1678390709~hmac=dff4898b89b6d6514f7778e7cba282b1eec9c6c961fcd365a726000df61c674c",
+        "rating": {"rate": 4.3, "count": 141}
+    },
+    {
+        "id": 32,
+        "title": "Face Makeup Dark Color Package",
+        "price": 35,
+        "description": "Enhance your natural beauty with the sultry and sophisticated dark colored makeup package. This package includes high-quality makeup products in shades of deep, rich, and intense colors to create bold and dramatic looks. Perfect for achieving a glamorous and confident appearance, this package is a must-have for any makeup lover.",
+        "category": "beauty",
+        "image": "https://img.freepik.com/free-photo/top-view-different-foundation-bottles_23-2149511240.jpg?w=1800&t=st=1678390255~exp=1678390855~hmac=7ed00e23fc673b0940dac76eb04f2668883d8c92ed91b95416b42ed12b4a3f7e",
+        "rating": {"rate": 3.7, "count": 49}
+    }
+]
