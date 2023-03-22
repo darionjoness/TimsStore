@@ -22,7 +22,7 @@ interface ShopItemsTypes {
 interface ProductsTypes {
     shopItems: ShopItemsTypes[]
     categoryFilter: string 
-    showPurchaseModal: React.MouseEventHandler<HTMLDivElement>
+    showPurchaseModal: any
 }
 
 const Products = ({ shopItems, categoryFilter, showPurchaseModal }: ProductsTypes) => {

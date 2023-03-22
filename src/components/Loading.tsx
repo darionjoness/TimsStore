@@ -2,7 +2,7 @@ import React from 'react';
 import ReactLoading from 'react-loading';
 
 interface LoadingTypes {
-    type: string
+    type: any
     color: string
 }
  
