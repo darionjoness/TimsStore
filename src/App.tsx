@@ -48,7 +48,7 @@ function App() {
   const fetchItems = async () => {
     setFetchLoading(true)
     // Fetch store api
-    const res = await fetch('./data/ShopData.json')
+    const res = await fetch('./src/data/ShopData.json')
 
     const data = await res.json()
 
