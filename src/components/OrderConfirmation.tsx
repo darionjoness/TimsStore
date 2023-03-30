@@ -5,12 +5,10 @@ interface OrderConfirmationTypes {
     emailInput: string
     phoneNumberInput: string
     addressInput: string
-    cardNumberInput: string
-    cvcInput: string
     totalPrice: number
 }
 
-const OrderConfirmation = ({ nameInput, emailInput, phoneNumberInput, addressInput, cardNumberInput, cvcInput, totalPrice }: OrderConfirmationTypes) => {
+const OrderConfirmation = ({ nameInput, emailInput, phoneNumberInput, addressInput, totalPrice }: OrderConfirmationTypes) => {
 
 
   return (

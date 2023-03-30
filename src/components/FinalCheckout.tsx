@@ -32,8 +32,6 @@ const FinalCheckout = ({ cartItems, viewFinalCheckout, hideFinalCheckout }: Fina
   const [emailInput, setEmailInput] = useState<string>('')
   const [phoneNumberInput, setPhoneNumberInput] = useState<string>('')
   const [addressInput, setAddressInput] = useState<string>('')
-  const [cardNumberInput, setCardNumberInput] = useState<string>('')
-  const [cvcInput, setCvcInput] = useState<string>('')
   const [showConfirmation, setShowConfirmation] = useState<boolean>(false)
   const [inputError, setInputError] = useState<boolean>(false)
 
@@ -41,7 +39,7 @@ const FinalCheckout = ({ cartItems, viewFinalCheckout, hideFinalCheckout }: Fina
 
   // Check if any fields are empty
   const changeConfirmation = () => {
-    if(nameInput == '' || emailInput == '' || phoneNumberInput == '' || addressInput == '' || cardNumberInput == '' || cvcInput == ''){
+    if(nameInput == '' || emailInput == '' || phoneNumberInput == '' || addressInput == ''){
       setInputError(true)
     }else{
       setShowConfirmation(true)
@@ -53,7 +51,7 @@ const FinalCheckout = ({ cartItems, viewFinalCheckout, hideFinalCheckout }: Fina
     <div className='finalCheckout'>
         {showConfirmation 
         ?
-         <OrderConfirmation nameInput={nameInput} emailInput={emailInput} phoneNumberInput={phoneNumberInput} addressInput={addressInput} cardNumberInput={cardNumberInput} cvcInput={cvcInput} totalPrice={totalPrice} /> 
+         <OrderConfirmation nameInput={nameInput} emailInput={emailInput} phoneNumberInput={phoneNumberInput} addressInput={addressInput} totalPrice={totalPrice} /> 
          :
          <div className="finalCheckoutItems">
           <div className="finalCheckoutHeader">
@@ -69,9 +67,6 @@ const FinalCheckout = ({ cartItems, viewFinalCheckout, hideFinalCheckout }: Fina
 
               <input value={addressInput} type="text" placeholder='Address' onChange={(e) => setAddressInput(e.target.value)} />
 
-              <input value={cardNumberInput} type="number" placeholder='Card Number' onChange={(e) => setCardNumberInput(e.target.value)} />
-
-              <input value={cvcInput} type="number" placeholder='CVC' onChange={(e) => setCvcInput(e.target.value)} />
 
               {inputError ? <h3 className='inputErrorMsg'>Please fill in all input fields!</h3> : ''}
 
